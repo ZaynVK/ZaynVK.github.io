@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>PDF</title>
-</head>
+
 <body>
 
 <h1>Report Guide</h1>
